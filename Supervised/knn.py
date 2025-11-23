@@ -1,6 +1,6 @@
 # K-Nearest neighbours algorithm
 
-# Idea: Finds the "k" closest data points (neighbours) to given input
+# Idea: Finds the "k" the closest data points (neighbours) to given input
 # and predicts based on majority class
 
 # Distance measure: Euclidean distance 
